@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Altamas+Kausar;Full+Stack+Developer;Frontend+Developer;AI+Enthusiast"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=800&color=00F7FF&center=true&width=900&lines=%24+whoami;Altamas+Kausar;%24+role;Full+Stack+Developer"/>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-8c96-47df-b6d6-621c9f93d2d4.gif" width="280"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749695-f7b0e4c2-45f3-40b8-9c17-cdd8f769606b.gif" width="260"/>
 
 </div>
 </div>
