@@ -1,10 +1,8 @@
 <div align="center">
 
-<h1>
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=42&duration=1&pause=9999999&color=FF6B6B&center=true&width=700&lines=Altamas+Kausar"/>
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1&pause=9999999&color=39FF14&center=true&width=700&lines=Altamas+Kausar"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=2563EB&center=true&width=900&lines=Full+Stack+Developer;AI+Enthusiast;Frontend+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=39FF14&center=true&width=900&lines=%3E+Full+Stack+Developer;%3E+AI+Enthusiast;%3E+Building+Modern+Web+Apps"/>
 
 </div>
 </div>
