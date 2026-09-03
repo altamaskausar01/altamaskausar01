@@ -1,10 +1,8 @@
 <div align="center">
 
-<h1>
-𝘼𝙡𝙩𝙖𝙢𝙖𝙨 𝙆𝙖𝙪𝙨𝙖𝙧
-</h1>
+ 𝘼𝙡𝙩𝙖𝙢𝙖𝙨 𝙆𝙖𝙪𝙨𝙖𝙧
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1200&color=2563EB&center=true&width=900&lines=Full+Stack+Developer;Building+AI-Powered+Solutions;Frontend+Developer;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=39FF14&center=true&vCenter=true&width=900&lines=%3E+Full+Stack+Developer;%3E+Building+AI-Powered+Applications;%3E+Frontend+Developer;%3E+Open+to+Collaborate"/>
 
 </div>
 </div>
