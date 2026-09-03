@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&weight=700&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Altamas+Kausar;Building+AI+Products;Full+Stack+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Altamas+Kausar;Full+Stack+Developer;Frontend+Developer;AI+Enthusiast"/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZ1NjJrZmdvdnVsdW8wd2VjN2NqMzQ4NHB0eDBjZ3BzZmFybmR0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="180"/>
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-8c96-47df-b6d6-621c9f93d2d4.gif" width="280"/>
 
 </div>
 </div>
