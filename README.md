@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=3B82F6&center=true&width=900&lines=Altamas+Kausar;Full+Stack+Developer;AI+Enthusiast"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=2563EB&center=true&width=900&lines=Hi+I'm+Altamas+Kausar;Full+Stack+Developer;AI+Enthusiast"/>
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="350"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320"/>
 
 </div>
-
 </div>
 
 <h2>Full Stack Developer • Frontend Developer • AI Enthusiast</h2>
