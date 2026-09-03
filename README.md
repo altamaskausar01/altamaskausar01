@@ -1,8 +1,8 @@
 <div align="center">
 
- 𝘼𝙡𝙩𝙖𝙢𝙖𝙨 𝙆𝙖𝙪𝙨𝙖𝙧
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&duration=1&pause=9999999&color=39FF14&center=true&vCenter=true&repeat=false&width=1200&height=90&lines=Altamas+Kausar"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=39FF14&center=true&vCenter=true&width=900&lines=%3E+Full+Stack+Developer;%3E+Building+AI-Powered+Applications;%3E+Frontend+Developer;%3E+Open+to+Collaborate"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=39FF14&center=true&vCenter=true&width=900&lines=%3E+Full+Stack+Developer;%3E+Building+AI-Powered+Applications;%3E+Frontend+Developer;%3E+Open+to+Collaborate"/>
 
 </div>
 </div>
