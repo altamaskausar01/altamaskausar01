@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&text=Altamas%20Kausar&fontSize=55&fontColor=39FF14&animation=fadeIn&color=0:111111,100:222222"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Altamas%20Kausar&fontSize=55&fontColor=ffffff&animation=twinkling&color=0:2563EB,50:3B82F6,100:60A5FA"/>
 </p>
 </div>
 
