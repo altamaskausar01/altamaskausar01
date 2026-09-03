@@ -168,7 +168,7 @@ An AI-powered platform that helps students build career-ready skills through int
 
 ---
 
-## ☁ Google Developer Student Clubs (2023–2025)
+## ☁ Google Developer Student Clubs (2023–2026)
 
 Actively participated in **Google Cloud Arcade**, cloud events, hackathons, technical workshops, and developer programs, earning multiple certificates and Google Cloud Arcade swag while strengthening practical skills in cloud computing and software development.
 
