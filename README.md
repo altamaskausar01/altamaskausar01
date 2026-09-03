@@ -32,7 +32,7 @@ I’m a final-year B.Tech Computer Science & Engineering student at Integral Uni
 
 I enjoy turning ideas into working products and understanding the complete journey from frontend interfaces to APIs, backend services, and databases. I’ve gained hands-on experience through projects where I work on building, integrating, debugging, and improving real applications.
 
-One of my key projects is FastFeast, a full-stack campus food ordering platform that I developed as part of a team. Our work was recognized with 1st place in an internship demo and presentation event, which also led to a paid internship opportunity. The experience strengthened my ability to build software collaboratively, communicate technical ideas, and present a working product effectively.
+One of my key projects is FastFeast, a full-stack campus food ordering platform that I developed as part of a team. Our work was recognized with 1st place in an internship demo and presentation event. The experience strengthened my ability to build software collaboratively, communicate technical ideas, and present a working product effectively.
 
 I’m currently working on SkillNavigator, an AI-powered career development platform focused on helping students understand their skills, identify gaps, and make better career decisions.
 
