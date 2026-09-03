@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=800&color=00F7FF&center=true&width=900&lines=%24+whoami;Altamas+Kausar;%24+role;Full+Stack+Developer"/>
+# Altamas Kausar
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-f7b0e4c2-45f3-40b8-9c17-cdd8f769606b.gif" width="260"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+AI-Powered+Solutions;Crafting+Modern+Web+Experiences;Turning+Ideas+into+Impact"/>
 
 </div>
 </div>
