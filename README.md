@@ -1,8 +1,10 @@
 <div align="center">
 
-# Altamas Kausar
+<h1>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=42&duration=1&pause=9999999&color=FF6B6B&center=true&width=700&lines=Altamas+Kausar"/>
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+AI-Powered+Solutions;Crafting+Modern+Web+Experiences;Turning+Ideas+into+Impact"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=2563EB&center=true&width=900&lines=Full+Stack+Developer;AI+Enthusiast;Frontend+Developer"/>
 
 </div>
 </div>
