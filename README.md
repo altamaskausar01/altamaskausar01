@@ -28,28 +28,14 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Computer Science & Engineering student at **Integral University** *(2023–2027)*
+I’m a final-year B.Tech Computer Science & Engineering student at Integral University, focused on Software Engineering and Full-Stack Development, with a growing interest in AI-powered applications.
 
-💻 Passionate about designing modern web applications and AI-powered products that solve real-world problems.
+I enjoy turning ideas into working products and understanding the complete journey from frontend interfaces to APIs, backend services, and databases. I’ve gained hands-on experience through projects where I work on building, integrating, debugging, and improving real applications.
 
-🚀 Currently building **SkillNavigator**, an AI-powered Career Operating System that helps students identify skill gaps and generate personalized learning roadmaps.
+One of my key projects is FastFeast, a full-stack campus food ordering platform that I developed as part of a team. Our work was recognized with 1st place in an internship demo and presentation event, which also led to a paid internship opportunity. The experience strengthened my ability to build software collaboratively, communicate technical ideas, and present a working product effectively.
 
-🏆 **Software Development Intern @ OneBigBit (Hybrid)**
+I’m currently working on SkillNavigator, an AI-powered career development platform focused on helping students understand their skills, identify gaps, and make better career decisions.
 
-- Frontend Developer
-- Team Lead
-- 🥇 Internship Winner (Top Team)
-
-📊 Former **Data Analytics Intern** at **EtrainIndia**
-
-🌱 Currently exploring
-
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- Cloud Technologies
-
----
 
 # 🚀 Featured Projects
 
