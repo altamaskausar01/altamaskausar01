@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Altamas+Kausar;Full+Stack+Developer;AI+Enthusiast;Building+Scalable+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=3B82F6&center=true&width=900&lines=Altamas+Kausar;Full+Stack+Developer;AI+Enthusiast"/>
 
-<br><br>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="350"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif" width="900"/>
+</div>
 
 </div>
 
