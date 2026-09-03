@@ -1,93 +1,100 @@
 <div align="center">
 
-# Hi 👋, I'm Altamas Kausar
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,100:06B6D4&text=Altamas%20Kausar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+Developer;Frontend+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+Something+New" />
+<h2>Full Stack Developer • Frontend Developer • AI Enthusiast</h2>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;Frontend+Developer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New"/>
 
-<img src="https://komarev.com/ghpvc/?username=altamaskausar01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<p>
+<a href="mailto:altamaskausar0@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/altamas-kausar-aa6a94215/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/altamaskausar01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Student at **Integral University (2023–2027)**
+🎓 B.Tech Computer Science & Engineering student at **Integral University** *(2023–2027)*
 
-💻 Passionate about building modern Full Stack applications and AI-powered products.
+💻 Passionate about designing modern web applications and AI-powered products that solve real-world problems.
 
-🚀 Currently working on **SkillNavigator**, an AI Career Operating System that generates personalized learning roadmaps using Machine Learning.
+🚀 Currently building **SkillNavigator**, an AI-powered Career Operating System that helps students identify skill gaps and generate personalized learning roadmaps.
 
-🏆 **Software Development Intern @ OneBigBit**
+🏆 **Software Development Intern @ OneBigBit (Hybrid)**
+
 - Frontend Developer
 - Team Lead
 - 🥇 Internship Winner (Top Team)
 
-📊 Former Data Analytics Intern at **EtrainIndia**
+📊 Former **Data Analytics Intern** at **EtrainIndia**
 
-🌱 Currently learning
+🌱 Currently exploring
 
 - Artificial Intelligence
 - Machine Learning
-- System Design
-- Cloud Computing
+- Full Stack Development
+- Cloud Technologies
 
 ---
 
-# 🚀 Current Project
+# 🚀 Featured Projects
 
-## 🎯 SkillNavigator — AI Career Operating System
+## 🍔 FastFeast — AI-Powered Campus Food Ordering Platform
 
-> Final Year Project
+A modern campus food ordering platform designed to simplify the canteen experience while integrating AI for personalized food recommendations.
+
+### Highlights
+
+- 👨‍💼 Team Lead & Frontend Developer
+- 🤖 AI Food Assistant
+- 🔐 Secure Authentication
+- 🛒 Online Food Ordering
+- 📱 Responsive User Interface
+- 🔗 REST API Integration
+- ☁️ Production Deployment
+
+### 🌐 Live Demo
+
+🔗 https://frontend-fastfeast.vercel.app/login
+
+---
+
+## 🎯 SkillNavigator — AI Career Operating System *(Final Year Project)*
+
+An AI-powered platform that helps students build career-ready skills through intelligent recommendations.
 
 ### Features
 
-✅ AI Career Recommendation
-
-✅ Skill Gap Analysis
-
-✅ Personalized Learning Roadmap Generator
-
-✅ AI Model Training
-
-✅ Project Recommendation
-
-✅ Resume Analysis
-
-✅ Interview Preparation
-
-✅ Career Tracking Dashboard
+- 🤖 AI Career Recommendations
+- 📊 Skill Gap Analysis
+- 🛣 Personalized Learning Roadmap Generation
+- 🎯 Filtered Roadmaps Based on User Skills & Career Goals
+- 📚 Course Recommendations
+- 💼 Project Recommendations
+- 📝 Resume Analysis
+- 🎤 Interview Preparation
 
 ### My Contributions
 
 - 🎨 Frontend Development
 - 🤖 Machine Learning Model Training
-- 📊 Roadmap Generator
+- 🧠 AI Recommendation System
+- 🛣 Dynamic Roadmap Generation
 - 🔗 Backend API Integration
-- ⚡ Responsive UI Development
-
----
-
-# 🍔 Featured Project
-
-## FastFeast — AI Powered Campus Food Ordering Platform
-
-🔗 **Live Demo**
-
-https://frontend-fastfeast.vercel.app/login
-
-### Highlights
-
-- Team Lead
-- Frontend Developer
-- AI Food Assistant
-- Authentication
-- Campus Ordering
-- Responsive Dashboard
-- REST API Integration
-- Production Deployment
+- 📱 Responsive UI Development
 
 ---
 
@@ -95,28 +102,22 @@ https://frontend-fastfeast.vercel.app/login
 
 ## 🏆 OneBigBit
 
-**Software Development Intern**
+**Software Development Intern** *(Hybrid • 2026)*
 
-Hybrid • 2026
-
-- Frontend Developer
-- Team Lead
-- Led a 5-member development team
-- Built scalable full-stack applications
-- 🥇 Internship Winner (Top Team)
+- Worked as a Frontend Developer and Team Lead.
+- Led a team of five developers to build scalable full-stack applications.
+- Collaborated using Agile workflows and GitHub.
+- Secured **1st Place** among internship teams through technical excellence and leadership.
 
 ---
 
-## 📈 EtrainIndia
+## 📊 EtrainIndia
 
-**Data Analytics Intern**
+**Data Analytics Intern** *(2025)*
 
-2025
-
-- Python
-- Pandas
-- Data Visualization
-- World Happiness Index Analysis
+- Performed World Happiness Index analysis using Python and Pandas.
+- Conducted data preprocessing, visualization, and exploratory data analysis.
+- Generated meaningful insights through real-world datasets.
 
 ---
 
@@ -125,7 +126,7 @@ Hybrid • 2026
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css"/>
 </p>
 
 ### Frontend
@@ -137,7 +138,13 @@ Hybrid • 2026
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
 ### Tools
@@ -148,73 +155,58 @@ Hybrid • 2026
 
 ---
 
-# 🏅 Leadership
+# 🏅 Leadership & Community
 
-### 🎤 Student Coordinator & Event Manager
+## 🎤 Student Coordinator & Event Manager
 
-**Shipathon 2026 by RevenueCat**
+### Shipathon 2026 by RevenueCat
 
-- Managed event operations and logistics
-- Coordinated mentors, judges, volunteers, and participants
-- Managed budgeting and event expenses
-- Ensured smooth execution of an international hackathon
-
----
-
-### ☁ Google Developer Student Clubs (2023–2025)
-
-Participated in Google Cloud Arcade, technical workshops, hackathons, and cloud learning events, earning multiple certificates and Google Cloud Arcade swag.
+- One of the Student Coordinators for an international hackathon.
+- Managed event logistics, budgeting, expense tracking, volunteers, mentors, and participant coordination.
+- Ensured smooth planning and successful execution of the event.
 
 ---
 
-# 📊 GitHub Analytics
+## ☁ Google Developer Student Clubs (2023–2025)
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=altamaskausar01&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altamaskausar01&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+Actively participated in **Google Cloud Arcade**, cloud events, hackathons, technical workshops, and developer programs, earning multiple certificates and Google Cloud Arcade swag while strengthening practical skills in cloud computing and software development.
 
 ---
 
-<div align="center">
+# 🎯 Goals for 2026–2027
 
-<img src="https://streak-stats.demolab.com?user=altamaskausar01&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-[![Altamas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=altamaskausar01&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🚀 Build impactful AI products
+- 🤝 Contribute to Open Source
+- ☁ Learn Cloud & System Design
+- 📚 Strengthen Machine Learning skills
+- 💼 Secure an SDE / Full Stack Developer role
 
 ---
 
-# 🏆 GitHub Trophies
+# 🌐 Let's Connect
 
-![](https://github-profile-trophy.vercel.app/?username=altamaskausar01&theme=tokyonight&no-frame=true&row=1&column=7)
+<p align="center">
 
----
+<a href="mailto:altamaskausar0@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-# 🌐 Connect With Me
+<a href="https://www.linkedin.com/in/altamas-kausar-aa6a94215/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="left">
-<a href="mailto:altamaskausar0@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://www.linkedin.com/in/altamas-kausar-aa6a94215/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://github.com/altamaskausar01"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://github.com/altamaskausar01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### 💡 "Building technology that creates real impact."
+### 💡 *"Building technology that creates real-world impact through innovation and continuous learning."*
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06B6D4,100:2563EB&section=footer"/>
 
 </div>
